@@ -1,0 +1,16 @@
+int a;
+const int b=1;
+int array[10];
+int zz;
+
+int main()
+{
+    a=1;
+    a=a+1;
+    zz=a+1;
+    putint(a);
+    putint(zz);
+    putint(b);
+    return 0;
+}
+

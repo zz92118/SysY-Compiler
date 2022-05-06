@@ -1,0 +1,16 @@
+int exptest(int y)
+{
+	const int y=0;
+	int x;
+	x=x+y;
+	x=1;
+	-1+-1*8;
+	int a;
+	int b;
+	a=a+1;
+	a=a*-1;
+	int arr[10];
+	int c;
+	c=arr[0];
+}
+

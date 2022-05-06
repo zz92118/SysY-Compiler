@@ -1,0 +1,14 @@
+int x;
+int y;
+const int cc=10;
+
+int main()
+{
+    int z=1;
+    int a=2;
+    x=5;
+    y=6;
+    x=x+y;
+    a=z*a+6;
+    return 0;
+}

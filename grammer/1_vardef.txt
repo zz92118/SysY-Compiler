@@ -1,0 +1,7 @@
+int x;
+int int;
+int a
+int x=;
+int y;
+const int z;
+int int;

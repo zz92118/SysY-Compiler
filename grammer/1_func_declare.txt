@@ -1,0 +1,44 @@
+int returntest(int x1,int x2)
+{
+    int a[100];
+    int b;
+    return;
+}
+
+void rename(int x)
+{
+    int x;
+    int y;
+}
+void rename()
+{
+
+}
+
+
+void c(int x,int y)
+{
+    int z;
+    int a[10];
+    int b;
+    return;
+}
+
+int ccc(int x,int l)
+{
+    int array[100];
+    int z;
+    int a;
+    int y;
+}
+
+
+
+void test123(int x,int y)
+{
+    int x[5];
+    int z;
+}
+
+
+

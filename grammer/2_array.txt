@@ -1,0 +1,16 @@
+int a[10];
+int array[-1];
+
+int main()
+{
+        
+    int b;
+    int c;
+    a[0]=a[1];
+    a[2]=1;
+    b=a[2]+1;
+    c=1;
+    b=2;
+    a[5]=c*b+2*c;
+    return 0;
+}

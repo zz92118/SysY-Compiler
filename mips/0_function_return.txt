@@ -1,0 +1,35 @@
+int z;
+int z2;
+
+void fun(int a1,int a2)
+{
+    z=1;
+}
+
+int fun2(int a1,int a2)
+{
+    int x;
+    x=10;
+    x=x+1;
+    return x;
+}
+
+
+void fun3(int a1,int a2)
+{
+    z2=10;
+}
+
+
+
+int main()
+{
+    int c;
+    fun(1,2);
+    c=4;
+    c=fun2(3,4)+3;
+    fun3(15,16);
+    putint(z2);
+    putint(c);
+    return 0;
+}

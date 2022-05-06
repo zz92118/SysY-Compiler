@@ -1,0 +1,14 @@
+int z;
+
+void fun(int a1,int a2)
+{
+    z=1;
+}
+
+int main()
+{
+    int z;
+    z=1;
+    fun(1,1);
+    return 0;
+}

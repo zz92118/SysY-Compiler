@@ -1,0 +1,6 @@
+int x;
+const int x;
+const int x=3;
+int x;
+int y;
+int 

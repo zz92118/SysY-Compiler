@@ -1,0 +1,10 @@
+int main()
+{
+    int a_is_a_identifier;
+    int b;
+    a+b;
+    1+1;
+    1*1;
+    1>1;
+    if(a>b);
+}

@@ -1,0 +1,30 @@
+void fun(int x)
+{
+
+}
+
+void fun2(int x1,int x2,int x3)
+{
+    int pa;
+    int x2;
+}
+
+int func3(int x1,int x2)
+{
+    return 1;
+}
+
+int main()
+{
+    int a;
+    int b;
+    int c[10];
+
+    c[2]=func3(1,2);
+
+    fun(1);
+    fun2(a,1,c[0]);
+
+    nodef();
+    return 0;
+}

@@ -1,0 +1,31 @@
+void xxx1()
+{
+    return ;
+}
+
+int xxx()
+{
+    return 1;
+    return 2;
+    return 3;
+}
+
+void x1()
+{
+    return 1;
+}
+
+void yyy()
+{
+    return ;
+}
+
+void zzz()
+{
+    return 123;
+}
+
+int main()
+{
+    return ;
+}

@@ -1,0 +1,4 @@
+﻿cl : 命令行 warning D9002: 忽略未知选项“/utf8”
+  main.cpp
+E:\Cpp\compiler_\sysy\sysy\main.cpp(13,18): warning C4101: “i”: 未引用的局部变量
+  sysy.vcxproj -> E:\Cpp\compiler_\sysy\Debug\sysy.exe
