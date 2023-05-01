@@ -6,7 +6,7 @@ NWPU compiler homework , a simplified C language(SysY) Compiler
 ## 运行时栈设计
 <center>
   
-|参数 | 
+| 参数 | 
 | ------ | 
 | 返回地址 | 
 | 保存的 fp 旧值 | 
