@@ -52,5 +52,5 @@
 ## 在Mars中的部分测试结果
   
 <div align=center>
-<image src="fig/3.jpg"  width="40%" height="50%">
+<image src="fig/3.png"  width="40%" height="50%">
 </div>
