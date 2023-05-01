@@ -17,13 +17,22 @@
 
 - `错误处理：` 在其它模块中进行错误处理分析,在 error.cpp 中打印并提示错误信息
 
+## 模块划分和调用情况
+- `main.cpp` main 函数
+- `lexial.cpp` 词法分析
+- `grammer.cpp` main 语法分析，符号表，语义检查，中间代码生成
+- `opt.cpp` 全局优化，局部优化
+- `tomips.cpp` 生产MIPS代码，寄存器分配优化
+- `error.cpp`  错误处理
+
+
 <div align=center>
-<image src="fig/1.jpg"  width="40%" height="50%">
+<image src="fig/1.png"  width="40%" height="50%">
 </div>
   
   
 <div align=center>
-<image src="fig/2.jpg"  width="40%" height="50%">
+<image src="fig/2.png"  width="40%" height="50%">
 </div>
 
 ## 运行时栈设计
